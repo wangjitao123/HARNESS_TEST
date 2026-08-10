@@ -12,15 +12,6 @@
 
 ---
 
-## 文档清单
-
-### 业务需求文档
-
-| 文档名称 | 路径 |
-|----------|------|
-| 业务需求文档（BRD） | [BRD-harness_test.md](BRD-harness_test.md) |
-| 业务规则文档 | [业务规则-harness_test.md](业务规则-harness_test.md) |
-
 ### 模块文档
 
 | 模块编号 | 模块名称 | 路径 |
