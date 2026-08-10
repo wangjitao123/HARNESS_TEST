@@ -2,7 +2,7 @@
   "project_name": "测试harness",
   "created_at": "2026-08-10 09:10:33",
   "pm_mode": true,
-  "current_stage": "init",
+  "current_stage": "stage-02",
   "pm_name": "wangjitao",
   "branches": {
     "product": "product/测试harness"
